@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @BMC-1
-- 👀 I’m interested in devloping tools and applications for all kind of needs.
-- 🌱 I’m currently learning C# C++ and Python
-- 💞️ I’m looking to collaborate on fun projects!
 - 📫 How to reach me : kallinos.loizos@gmail.com
 
 <!---
